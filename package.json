@@ -1,0 +1,82 @@
+{
+  "_args": [
+    [
+      "react-disqus",
+      "/home/alex/Projects/codeneric"
+    ]
+  ],
+  "_from": "react-disqus@latest",
+  "_id": "react-disqus@1.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-disqus",
+  "_nodeVersion": "5.2.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/react-disqus-1.0.2.tgz_1461907429123_0.02839339361526072"
+  },
+  "_npmUser": {
+    "email": "rajasekar89be@gmail.com",
+    "name": "rajzshkr"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-disqus",
+    "raw": "react-disqus",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-disqus/-/react-disqus-1.0.2.tgz",
+  "_shasum": "6e148e9d7ba15c91b51b678f1c6fe2838bc0ee67",
+  "_shrinkwrap": null,
+  "_spec": "react-disqus",
+  "_where": "/home/alex/Projects/codeneric",
+  "author": {
+    "email": "rajasekar89be@gmail.com",
+    "name": "Raja Sekar",
+    "url": "http://rajasekarm.com"
+  },
+  "dependencies": {
+    "react": "^15.0.1"
+  },
+  "description": "React component for disqus thread",
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "6e148e9d7ba15c91b51b678f1c6fe2838bc0ee67",
+    "tarball": "https://registry.npmjs.org/react-disqus/-/react-disqus-1.0.2.tgz"
+  },
+  "gitHead": "114b26190465a7b9bdcfb595608a832dd4db4a26",
+  "keywords": [
+    "react",
+    "disqus",
+    "react-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "rajasekar89be@gmail.com",
+      "name": "rajzshkr"
+    }
+  ],
+  "name": "react-disqus",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "build": "babel react-disqus.js -o index.js",
+    "prepublish": "npm run build"
+  },
+  "version": "1.0.2"
+}
