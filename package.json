@@ -1,42 +1,5 @@
 {
-  "_args": [
-    [
-      "react-disqus",
-      "/home/alex/Projects/codeneric"
-    ]
-  ],
-  "_from": "react-disqus@latest",
-  "_id": "react-disqus@1.0.2",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/react-disqus",
-  "_nodeVersion": "5.2.0",
-  "_npmOperationalInternal": {
-    "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/react-disqus-1.0.2.tgz_1461907429123_0.02839339361526072"
-  },
-  "_npmUser": {
-    "email": "rajasekar89be@gmail.com",
-    "name": "rajzshkr"
-  },
-  "_npmVersion": "3.5.2",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "react-disqus",
-    "raw": "react-disqus",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-disqus/-/react-disqus-1.0.2.tgz",
-  "_shasum": "6e148e9d7ba15c91b51b678f1c6fe2838bc0ee67",
-  "_shrinkwrap": null,
-  "_spec": "react-disqus",
-  "_where": "/home/alex/Projects/codeneric",
+ 
   "author": {
     "email": "rajasekar89be@gmail.com",
     "name": "Raja Sekar",
@@ -64,7 +27,7 @@
     "react-component"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "react-disqus.js",
   "maintainers": [
     {
       "email": "rajasekar89be@gmail.com",
@@ -78,5 +41,5 @@
     "build": "babel react-disqus.js -o index.js",
     "prepublish": "npm run build"
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }
