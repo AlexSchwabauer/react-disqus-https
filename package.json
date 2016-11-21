@@ -27,7 +27,7 @@
     "react-component"
   ],
   "license": "MIT",
-  "main": "react-disqus.js",
+  "main": "index.js",
   "maintainers": [
     {
       "email": "rajasekar89be@gmail.com",
@@ -41,5 +41,5 @@
     "build": "babel react-disqus.js -o index.js",
     "prepublish": "npm run build"
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
